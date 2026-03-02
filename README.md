@@ -16,13 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 - 📚 Active in technical communities and always keen to help others.
 - 🧩 Problem solver who thrives on challenges.
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhoninl&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhoninl&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhoninl&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhoninl&theme=radical)
 
 ## 📫 How to Reach Me
 
