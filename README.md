@@ -1,64 +1,120 @@
 # 👋 Hi, I'm rhoninl
 
-I'm a software engineer focused on **edge computing**, **IoT systems**, **cloud-native platforms**, and **AI-assisted development workflows**.
+I build **systems, tooling, and AI-assisted workflows** that make complex software and physical environments easier to operate.
 
-I like building systems that connect the **messy physical world** with **reliable software abstractions**: devices, agents, Kubernetes, automation, and developer tools.
+My work sits at the intersection of:
 
-Most of my work sits around one question:
+- ⚙️ **Cloud-native infrastructure**
+- 🤖 **AI-assisted engineering**
+- 🌐 **Edge / physical systems**
+- 🛠️ **Developer tooling and automation**
 
-> How can we make complex device integration and software delivery feel simpler, safer, and more repeatable?
+I enjoy turning messy, hard-to-operate environments into workflows that are **simpler, safer, and more repeatable** — for both humans and agents.
 
-## 🚀 About Me
+---
 
-- 🧩 Building **cloud-native edge systems** for **IoT / physical AI** scenarios.
-- ⚙️ Working with **Go**, **Kubernetes**, **Docker**, **gRPC**, **React**, **TypeScript**, and cloud infrastructure.
-- 🤖 Exploring **agent-native development workflows** with Claude Code, Codex, ChatGPT, and custom coordination tools.
-- 🛠️ Interested in **developer experience**, **reliable automation**, **device onboarding**, and **AI-assisted code generation**.
-- 🌍 Open-source contributor and maintainer around **edge / IoT infrastructure**.
+## 🚀 What I Build
 
-## 🧭 What I'm Exploring
+### 🤖 Agent-native Engineering
 
-- **Agent-native engineering workflows**  
-  Turning messy product ideas into specs, tasks, code, reviews, tests, and release notes with AI agents.
+Exploring how AI agents can participate in real engineering workflows:
 
-- **Edge AI / Physical AI runtime**  
-  Making devices easier to detect, configure, test, and integrate into real software systems.
+- specs → tasks → implementation
+- review → testing → iteration
+- documentation → release workflows
+- multi-agent coordination and verification
 
-- **Cloud-to-edge platforms**  
-  Reliable orchestration, deployment, storage, observability, and operations across constrained environments.
+Current interests:
 
-- **Developer tooling**  
-  Building small tools that reduce repetitive engineering work and make code review / debugging loops faster.
+- Claude Code
+- Codex
+- ChatGPT
+- orchestration systems
+- agent coordination
+- AI-assisted development pipelines
+
+---
+
+### 🌐 Systems & Infrastructure
+
+Building and operating systems around:
+
+- Go
+- Kubernetes
+- Docker
+- gRPC
+- React / TypeScript
+- cloud-native platforms
+- distributed and edge environments
+
+Particularly interested in:
+
+- reliable automation
+- deployment workflows
+- observability
+- developer experience
+- infrastructure that fails gracefully
+
+---
+
+### ⚡ Physical & Edge Systems
+
+Working on systems that connect software with real-world environments:
+
+- device onboarding
+- cloud-to-edge orchestration
+- runtime operations
+- physical AI / edge workflows
+- reliable integration across constrained systems
+
+I see edge systems not as a niche, but as another form of **operational infrastructure**.
+
+---
 
 ## 🧳 My AI CodeCase
 
-| Name | What for |
+| Name | Purpose |
 |---|---|
-| [Claude Code](https://claude.ai) | Main coding agent for deep implementation, refactoring, bug fixing, codebase exploration, and multi-file changes. |
-| [Codex](https://openai.com/codex) | Parallel coding agent for delegated tasks, PR-style changes, code review, and isolated experiments in separate worktrees/cloud sandboxes. |
-| [ChatGPT](https://chatgpt.com) | Multimodal thinking partner for planning, writing, research, architecture discussion, visual analysis, image generation, and clear document drafting. |
-| [Frogo](https://github.com/rhoninl/Frogo) | Taskboard for tracking agent tasks, working status, progress, blockers, and handoffs. |
-| [Infinite Loop](https://github.com/rhoninl/Infinite-Loop) | Iteration engine for “keep trying until it passes”: run → test → inspect error → fix → repeat. Best for debugging loops and verification workflows. |
-| [Hermes](https://hermes-agent.nousresearch.com) | Personal coordinator, dispatcher, and GitHub bot that routes tasks to the right agent, keeps context, reviews PRs/issues online, comments on GitHub, and turns vague goals into executable tasks. |
+| [Claude Code](https://claude.ai) | Main implementation and deep coding agent |
+| [Codex](https://openai.com/codex) | Parallel execution, delegated work, and isolated experiments |
+| [ChatGPT](https://chatgpt.com) | Thinking partner for planning, architecture, writing, and visual reasoning |
+| [Frogo](https://github.com/rhoninl/Frogo) | Agent taskboard and execution tracking |
+| [Infinite Loop](https://github.com/rhoninl/Infinite-Loop) | Iterative debugging and verification engine |
+| [Hermes](https://hermes-agent.nousresearch.com) | Coordination and routing layer for agent workflows |
+
+I treat AI not as a replacement for engineering, but as a **new operating layer for building software**.
+
+---
 
 ## 🧠 Engineering Taste
 
 I care about:
 
-- **Clean interfaces** over clever abstractions.
-- **Reliable systems** over impressive demos.
-- **Local-first** and **edge-capable workflows** when possible.
-- **Documentation** that actually helps agents and humans work better.
-- **Boring infrastructure** that fails gracefully.
-- **AI tools** that improve engineering judgment instead of replacing it.
-
-## 📫 How to Reach Me
-
-- [Email](mailto:rhoninl@hotmail.com)
-- [LinkedIn](https://www.linkedin.com/in/rhonin-lee/)
+- clean interfaces over clever abstractions
+- workflows over isolated tools
+- systems that are operable by both humans and agents
+- reliable automation over impressive demos
+- documentation that improves collaboration
+- local-first and edge-capable workflows when practical
+- infrastructure that stays understandable under failure
 
 ---
 
-> Build the system, then make it explainable enough for both humans and agents to operate.
+## 🌍 Currently Exploring
 
-Thanks for visiting! 🚀
+- agent-native development systems
+- AI-assisted engineering workflows
+- infrastructure and developer tooling
+- cloud-to-edge runtime systems
+- software that reduces repetitive engineering work
+
+---
+
+## 📫 Reach Out
+
+- Email: <mailto:rhoninl@hotmail.com>
+- LinkedIn: <https://www.linkedin.com/in/rhonin-lee/>
+
+---
+
+> Build systems that people — and agents — can actually operate.
